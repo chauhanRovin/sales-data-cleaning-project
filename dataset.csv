@@ -1,0 +1,8 @@
+OrderID,Product,Category,Sales,Quantity,Date
+1001,Laptop,Electronics,50000,1,2023-01-01
+1002,Phone,Electronics,,2,2023-01-02
+1003,Tablet,Electronics,30000,1,2023-01-03
+1004,Headphones,Accessories,2000,3,2023-01-04
+1005,Laptop,Electronics,50000,1,2023-01-05
+1005,Laptop,Electronics,50000,1,2023-01-05
+1006,Mouse,Accessories,,2,2023-01-06
